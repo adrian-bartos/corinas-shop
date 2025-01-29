@@ -1,4 +1,4 @@
 # corinas-shop
 
 
-visit here: https://evilhamster92.github.io/corinas-shop/
+visit here: https://adrian-bartos.github.io/corinas-shop/
